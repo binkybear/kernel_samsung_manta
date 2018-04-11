@@ -7,4 +7,4 @@ This is a Nethunter Kernel for the Nexus 10 (manta / mantaray).
 
 ##Additionally compiled into the kernel:
  - All Controller Area Network (CAN) bus subsystem support.
- - All NFS client and server support and CIFS support network.
+ - All NFS client and server support and CIFS support.
